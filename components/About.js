@@ -11,11 +11,9 @@ const About = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid items-center grid-cols-1 md:grid-cols-2">
             <div>
-                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">Why CUET 2024?
+                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">Why Sainik School Entrance Exam?
 </h2>
-                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">A common entrance test eliminates the need to take multiple entrance exams for different programs. The
-exam also reduces the dependency of students on Class XII board exam marks and brings them on a common
-platform for admissions into Central Universities</p>
+                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">The Sainik School Entrance Exam serves as a gateway for admission to Sainik Schools, which prepare students for careers in the armed forces by offering a holistic education emphasizing academics, physical fitness, and character development.</p>
 
                 <p className="mt-4 text-xl text-gray-600 md:mt-8">
                     <span className="relative inline-block">

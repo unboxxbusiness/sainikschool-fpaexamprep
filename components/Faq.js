@@ -23,30 +23,30 @@ const Accordion = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="Who conducts CUET 2024?"
-              text="CUET 2024 is conducted by the National Testing Agency (NTA), which is responsible for organizing various entrance examinations in India."
+              header="What subjects are covered in the Sainik School Entrance Exam?"
+              text="The exam usually assesses candidates' aptitude in subjects such as Mathematics, English, and General Knowledge, along with evaluating their physical fitness through tests like physical efficiency and medical examinations."
             />
             <AccordionItem
-              header="What programs does CUET 2024 cover?"
-              text="CUET 2024 covers undergraduate programs in central universities, including courses in arts, sciences, commerce, engineering, management, and other disciplines."
+              header="How can FPA Exam Prep help students get admission to Sainik School?"
+              text="FPA Exam Prep offers comprehensive coaching programs specifically tailored to prepare students for the Sainik School Entrance Exam. Our expert faculty provides personalized guidance, rigorous mock tests, and structured study materials designed to maximize students performance and increase their chances of success in the exam."
             />
             <AccordionItem
-              header="Is there any age limit for appearing in CUET 2024?"
-              text="There is typically no upper age limit for appearing in CUET 2024. However, candidates must meet the eligibility criteria specified by the respective universities and NTA."
+              header="What are the benefits of enrolling in FPA Exam Prep for Sainik School Entrance Exam preparation?"
+              text="FPA Exam Prep provides a conducive learning environment, personalized attention, and strategic preparation strategies that help students build confidence, strengthen their subject knowledge, and ace the exam. Our proven track record of success and dedicated faculty ensure that students are well-prepared and equipped to secure admission to their desired Sainik School."
             />
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="How can I apply for CUET 2024?"
-              text="To apply for CUET 2024, visit the CUET portal, register, fill the form, upload documents, pay the fee, and submit before the deadline. For assistance, contact FPA Exam Prep."
+              header="How can I enroll in FPA Exam Prep's Sainik School Entrance Exam preparation program?"
+              text="To enroll in FPA Exam Prep's coaching program for the Sainik School Entrance Exam, you can visit our website or contact our nearest branch for further details on enrollment procedures, batch timings, and fee structure."
             />
             <AccordionItem
-              header="How can I prepare for CUET 2024?"
-              text="To prepare for CUET 2024, FPA provides comprehensive classes and essential resources covering the exam syllabus. Enroll in our CUET preparation program for expert guidance, study materials, practice tests, and personalized support to excel in your exam preparation."
+              header="What additional resources does FPA Exam Prep offer to aid Sainik School Entrance Exam preparation?"
+              text="In addition to expert coaching, FPA Exam Prep provides students with access to comprehensive study materials, regular mock tests, and personalized feedback sessions to track progress and identify areas for improvement."
             />
             <AccordionItem
-              header="When will the results for CUET 2024 be declared?"
-              text="The results for CUET 2024 are usually declared within a few weeks after the examination. Candidates can check their results on the official website of NTA or the respective central university they have applied to."
+              header="Is FPA Exam Prep's coaching suitable for students of all academic backgrounds?"
+              text="Yes, FPA Exam Prep's coaching programs are designed to cater to students of diverse academic backgrounds. Our faculty employs adaptive teaching methodologies to ensure that each student receives personalized attention and support tailored to their individual learning needs."
             />
           </div>
         </div>
