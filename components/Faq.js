@@ -14,8 +14,7 @@ const Accordion = () => {
                 Any Questions? Look Here
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                Here are some frequently asked questions (FAQs) related to CUET (COMMON UNIVERSITY ENTRANCE TEST) preparation with FPA
               </p>
             </div>
           </div>
